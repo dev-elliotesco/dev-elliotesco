@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning **NestJS**.
 - 💞️ I’m looking to collaborate on backend projects and DevOps automation.
 - 📫 How to reach me: **dev.elliot.escovitch@gmail.com**
-- ⚡ Fun fact: I love video games and basketball! 🕹️🏀
+- ⚡ Fun fact: My favorite game is RD2 or Ghost Of Thusima, I still haven't decided... 😅
